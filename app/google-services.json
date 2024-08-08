@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972317964013",
+    "project_id": "toko-smg-da935",
+    "storage_bucket": "toko-smg-da935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972317964013:android:bd2c2bcc8dcc816da53ee4",
+        "android_client_info": {
+          "package_name": "com.smg.kasirsmg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8zeLLSw6fanTuI6s6zdIqlWl25UHjBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972317964013:android:7e5cb0d45dc3c6e5a53ee4",
+        "android_client_info": {
+          "package_name": "com.smg.tokosmg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8zeLLSw6fanTuI6s6zdIqlWl25UHjBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
